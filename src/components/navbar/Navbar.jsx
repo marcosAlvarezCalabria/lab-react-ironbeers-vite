@@ -3,7 +3,7 @@ import "./navBar.css"
 function Navbar() {
 return(
     <div className="navbar">
-        <Link to= "/"><i class="fa fa-home fa-5x" aria-hidden="true"></i></Link>
+        <Link to= "/"><i className="fa fa-home fa-3x" aria-hidden="true"></i></Link>
             </div>
 )
 }
