@@ -32,7 +32,7 @@ function AllBeersPage() {
                     <h3 style={{color:"BLACK"}}>{beer.name}</h3>
                     <h5 style={{color:"grey"}}>{beer.tagline}</h5>
                     <p>  <strong>Created by :</strong> {beer.contributed_by}</p>
-                    <Link to={`/beers/${beer._id}`} ><i className="fa fa-info-circle fa-2x" aria-hidden="true"></i></Link>
+                    <Link to={`/beers/${beer._id}`} ><i classNma="fa fa-info-circle fa-2x" aria-hidden="true"></i></Link>
                 </div>
             </div>
             <hr/>
