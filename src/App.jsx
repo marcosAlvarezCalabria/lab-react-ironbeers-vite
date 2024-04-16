@@ -5,7 +5,7 @@ import RandomBeersPage from "./pages/RandomBeerPage";
 import AddBeerPage from "./pages/AddBeerPage";
 import BeerDetailsPage from "./pages/BeerDetailsPage";
 import "./App.css";
-import Navbar from "./components/Navbar"
+import Navbar from "./components/navbar/Navbar"
 
 
 
